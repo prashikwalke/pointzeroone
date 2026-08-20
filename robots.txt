@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pointzeroone.ai/sitemap.xml
